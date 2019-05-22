@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1557995255 source:c:\users\beryu\onedrive\desktop\compgraph\kursova v1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
